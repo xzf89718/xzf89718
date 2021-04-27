@@ -2,7 +2,7 @@
 - 👀 I’m interested in High Energy Physics Data Analysis, Headphones! (I am really a fan of Sennhensier, owner of HD660s cx80s and ie40 pro)
 - 🌱 I’m currently learning C++, Machine Learning, ROOT
 - 💞️ I’m looking to collaborate on Data Analysis in HEP
-- 📫 How to reach me just Email me: zifeng.xu@foxmail.com, zifeng.xu@
+- 📫 How to reach me just Email me: zifeng.xu@foxmail.com, zifeng.xu@cern.ch
 
 <!---
 xzf89718/xzf89718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
